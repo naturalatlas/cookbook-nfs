@@ -20,4 +20,4 @@ supports 'sles', '>= 11.1'
 supports 'freebsd', '>= 9.3'
 
 depends 'line', '~> 1.0.3'
-depends 'sysctl', '~> 0.10.2'
+depends 'sysctl', '~> 1.0.2'
